@@ -14,5 +14,5 @@
         "required": true
         }
     },
-    "image": "heroku/python"
+    "image": "https://connorstevens.dev/assets/img/logo.jpg"
 }
