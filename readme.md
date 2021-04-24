@@ -11,6 +11,9 @@ My friend alex has a cat named Marta. We give him a hard time for sending too ma
 - requests
 - boto3
 
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
