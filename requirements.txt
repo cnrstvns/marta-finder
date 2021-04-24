@@ -1,4 +1,4 @@
+python-dotenv
 discord.py
 requests
-dotenv
 boto3
