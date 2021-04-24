@@ -9,9 +9,24 @@
     "success_url": "/welcome",
     "env": {
         "TOKEN": {
-        "description": "Your discord bot token.",
-        "value": "",
-        "required": true
+            "description": "Your discord bot token.",
+            "value": "",
+            "required": true
+        },
+        "AWS_ACCESS_KEY_ID": {
+            "description": "Your AWS Access Key ID.",
+            "value": "",
+            "required": true
+        },
+        "AWS_SECRET_ACCESS_KEY": {
+            "description": "Your AWS Secret Access Key.",
+            "value": "",
+            "required": true
+        },
+        "AWS_REGION": {
+            "description": "Your desired AWS region.",
+            "value": "us-east-1",
+            "required": true
         }
     },
     "image": "heroku/python"
