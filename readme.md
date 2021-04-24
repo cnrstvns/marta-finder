@@ -7,6 +7,7 @@ My friend alex has a cat named Marta. We give him a hard time for sending too ma
 
 
 ## Dependencies
+- python-dotenv
 - discord.py
 - requests
 - boto3
