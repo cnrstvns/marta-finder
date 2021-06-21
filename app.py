@@ -7,7 +7,6 @@ import os
 # Load ENV Variables
 load_dotenv()
 
-
 # Connect to APIs
 client = discord.Client()
 rekog = boto3.client(
